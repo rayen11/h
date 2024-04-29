@@ -1,0 +1,113 @@
+{
+  "configVersion": 1,
+  "timestamp": 1714390080943,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.210c0330f1bb0b75.js",
+        "/manifest.webmanifest",
+        "/polyfills.67342b0ea3fccc1b.js",
+        "/runtime.80ef616c372d5ed5.js",
+        "/styles.90cdf80a70b149cf.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/imgs/Pngtree—cute tourist travel couple traveling_4514706.png",
+        "/assets/imgs/beautiful-mountains-ratchaprapha-dam-khao-sok-national-park-surat-thani-province-thailand.jpg",
+        "/assets/imgs/boatman-punting-boat-river-arashiyama-autumn-season-along-river-kyoto-japan.jpg",
+        "/assets/imgs/cascade-boat-clean-china-natural-rural.jpg",
+        "/assets/imgs/close.png",
+        "/assets/imgs/engrenages.png",
+        "/assets/imgs/gps-navigation.png",
+        "/assets/imgs/icons8-list-64.png",
+        "/assets/imgs/icons8-search-100.png",
+        "/assets/imgs/j17srsub85b4e74ild09q7nr5d.png",
+        "/assets/imgs/on-time.png",
+        "/assets/imgs/seljalandsfoss-waterfall-during-sunset-beautiful-waterfall-iceland.jpg",
+        "/assets/imgs/tranquil-scene-flowing-water-forest-generative-ai.jpg",
+        "/assets/imgs/tranquil-scene-flowing-water-nature-generated-by-ai.jpg",
+        "/assets/imgs/vecteezy_travelling-vacation-design-illustration_11200154.png",
+        "/icons8-search-100.97220c1e77883512.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "/assets/imgs/Pngtree—cute tourist travel couple traveling_4514706.png": "64ef3db79b4155b14475d25d894186b51833bf2a",
+    "/assets/imgs/beautiful-mountains-ratchaprapha-dam-khao-sok-national-park-surat-thani-province-thailand.jpg": "330876b6f9ae5231c73110073eb8b2fca653b96c",
+    "/assets/imgs/boatman-punting-boat-river-arashiyama-autumn-season-along-river-kyoto-japan.jpg": "63f335273d74097bfccc613aed64936eeb05a6a2",
+    "/assets/imgs/cascade-boat-clean-china-natural-rural.jpg": "ce9badb8b4c26b85551cf93c790e51c357182d78",
+    "/assets/imgs/close.png": "b92527033805a6bb0fb1944d264421ac689d1760",
+    "/assets/imgs/engrenages.png": "14f9dd5e2b1017dfba362cb67b478ec0078185f9",
+    "/assets/imgs/gps-navigation.png": "3b549879d14d46aef5565a6dbfb2baaa787e1c24",
+    "/assets/imgs/icons8-list-64.png": "0ff4849c8061e2c5f67db0d07b6ea99ee2868b7b",
+    "/assets/imgs/icons8-search-100.png": "bcbd53d24141aa69d7ce66df9aec7b346f79d063",
+    "/assets/imgs/j17srsub85b4e74ild09q7nr5d.png": "6282664def88918ebfdedcf4e9d8e303b4e0afc2",
+    "/assets/imgs/on-time.png": "daf63b3fd93a72fa5b34e7b4cc221d7ea26d862d",
+    "/assets/imgs/seljalandsfoss-waterfall-during-sunset-beautiful-waterfall-iceland.jpg": "fe007069907497442274191a996841069117ef49",
+    "/assets/imgs/tranquil-scene-flowing-water-forest-generative-ai.jpg": "ba564d081720035d0d23ed2dd085c4df026e965e",
+    "/assets/imgs/tranquil-scene-flowing-water-nature-generated-by-ai.jpg": "c0f1e6f662070a3b6111f696f3d7e5cae04e668c",
+    "/assets/imgs/vecteezy_travelling-vacation-design-illustration_11200154.png": "d0c924507fa5cab526b29e9976e0646a6fa4c1f7",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/icons8-search-100.97220c1e77883512.png": "bcbd53d24141aa69d7ce66df9aec7b346f79d063",
+    "/index.html": "654188ede01f997a0d584c0ae6cd207a569226c7",
+    "/main.210c0330f1bb0b75.js": "c9e9db5a02d00625e09abe870ee97bfeca1123be",
+    "/manifest.webmanifest": "a90ccb6247415144124182656960061f2d241a77",
+    "/polyfills.67342b0ea3fccc1b.js": "e9d94b57b800258658cb82836098ec7de9805547",
+    "/runtime.80ef616c372d5ed5.js": "3246c2526c723c0341530748201c69189a5e399d",
+    "/styles.90cdf80a70b149cf.css": "7b02a9cbd0c7ee78a1ef22374147f0da22497119"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
